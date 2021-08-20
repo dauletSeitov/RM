@@ -1,0 +1,1 @@
+select * from users where user_name = 'Vasya'71e57cd5-0d3b-423f-a2a2-d8fc81ae2de1
