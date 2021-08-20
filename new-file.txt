@@ -1,1 +1,1 @@
-select * from users where user_name = 'Vasya'0bfb002f-8d7b-4b07-b044-542d7675a52a
+select * from users where user_name = 'Vasya'1354e008-2795-4c6d-8cbc-fe1230b3d9a3
